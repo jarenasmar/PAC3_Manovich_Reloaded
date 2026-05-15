@@ -44,8 +44,11 @@ Els dos casos que he elegit són **Google Earth Timelapse** i **A Passage of Wat
 
 ![Google Earth Timelapse](img/generated/google-earth-timelapse.png)
 
-![](img/screenshots/google-earth-timelapse1.png)
-![](img/screenshots/google-earth-timelapse2.png)
+Text
+
+<div>
+  <img src=img/screenshots/google-earth-timelapse1.png style="float: left;" width=50%><img src=img/screenshots/google-earth-timelapse2.png style="float: right;" width=50%>
+</div>
 
 ---
 
@@ -60,6 +63,8 @@ Els dos casos que he elegit són **Google Earth Timelapse** i **A Passage of Wat
 [Entrevista/explicació de l’artista](https://artsandculture.google.com/story/passage-of-water-by-dr-yiyun-kang/EAXxyKElbH3uTw?hl=en)
 
 ![A Passage of Water](img/screenshots/a-passage-of-water.png)
+
+Text
 
 ![](img/generated/a-passage-of-water.png)
 

@@ -114,3 +114,5 @@ Google Arts & Culture. (2024). *Passage of Water by Dr Yiyun Kang*. https://arts
 
 NASA/JPL. (2023). *Google’s “A Passage of Water” Brings NASA’s Water Data to Life*. https://swot.jpl.nasa.gov/news/112/googles-a-passage-of-water-brings-nasas-water-data-to-life/
 
+OpenAI. (2026). *ChatGPT (GPT-5.5 Thinking) [Model de llenguatge]*. Utilitzat com a suport per a la delimitació del tema, revisió lingüística i orientació documental.
+
